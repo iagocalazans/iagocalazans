@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iago Calazans</h1>
 <h3 align="center">an addict, completely dependent on JavaScript (not the mental one).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagocalazans" alt="iagocalazans" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagocalazans" alt="iagocalazans" /></a> </p>
+<br><br>
 
 - 🔭 I’m currently working at [Kognita.ai](https://kognita.ai/)
 
