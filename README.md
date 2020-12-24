@@ -36,7 +36,7 @@
 
 <h3 align="left">Badges:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagocalazans&show_icons=true&locale=en&layout=compact" alt="iagocalazans" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagocalazans&show_icons=true&locale=en&layout=compact" alt="iagocalazans" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iagocalazans&show_icons=true&locale=en" alt="iagocalazans" /></p>
 
