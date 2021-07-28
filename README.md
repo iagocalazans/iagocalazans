@@ -20,12 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/iagocalazans" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iagocalazans" height="30" width="40" /></a>
-<a href="https://dev.to/iagocalazans" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iagocalazans" height="30" width="40" /></a>
-<a href="https://twitter.com/dpixeljay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dpixeljay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iago-calazans" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iago-calazans" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10481975/iago-calazans" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10481975/iago-calazans" height="30" width="40" /></a>
-<a href="https://instagram.com/dpixeljay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dpixeljay" height="30" width="40" /></a>
+<a href="https://codepen.io/iagocalazans" target="_blank"><img align="center" src="https://img.shields.io/badge/codepen-seguir?style=social&logo=codepen" alt="iagocalazans" /></a> <br />
+<a href="https://dev.to/iagocalazans" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-seguir?style=social&logo=dev.to" alt="iagocalazans" /></a> <br />
+<a href="https://twitter.com/dpixeljay" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-seguir?style=social&logo=twitter" alt="dpixeljay" /></a> <br />
+<a href="https://linkedin.com/in/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-seguir?style=social&logo=linkedin" alt="iago-calazans" /></a> <br />
+<a href="https://stackoverflow.com/users/10481975/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-seguir?style=social&logo=stackoverflow" alt="10481975/iago-calazans" /></a> <br />
+<a href="https://instagram.com/dpixeljay" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-seguir?style=social&logo=instagram" alt="dpixeljay" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
