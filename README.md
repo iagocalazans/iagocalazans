@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NestJS, Deno & Rust**
 
-- 👯 I’m looking to collaborate on [Strapi.io](https://github.com/strapi/strapi)
+- 👯 I’m looking to collaborate on [undefined]()
 
 - 👨‍💻 All of me are available at [https://iagocalazans.github.io/](https://iagocalazans.github.io/)
 
