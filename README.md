@@ -1,8 +1,7 @@
 <h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/uptime-58.333%25-success?style=flat-square" /></h1>
 <h3 align="center">an addict, completely dependent on JavaScript (not the mental one).</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagocalazans&margin-w=10" alt="iagocalazans" /></a> </p>
-<br><br>
+<br>
 
 - 🔭 I’m currently working at [Kognita.ai](https://kognita.ai/) as Tech Lead
 
