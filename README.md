@@ -1,5 +1,5 @@
-<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/uptime-58.333%25-success?style=flat-square" /></h1>
-<h3 align="center">an addict, completely dependent on JavaScript (not the mental one).</h3>
+<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg" /></h1>
+<h3 align="center">Engineer Senior Node.js and Typescript | Tech Lead</h3>
 
 <br>
 
