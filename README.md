@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working at [Kognita.ai](https://kognita.ai/) as Tech Lead
 
-- 🌱 I’m currently learning **Deno & Rust**
+- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns, Clean Code and NestJS**
 
-- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript and NestJS**
+- 👨‍💻 All of me are available at [https://thenodejs.engineer](https://thenodejs.engineer)
 
-- 👨‍💻 All of me are available at [https://iagocalazans.github.io/](https://iagocalazans.github.io/)
-
-- 💬 Ask me about **Node.js, TypeScript, JavaScript and NestJS**
+- 💬 Ask me about **Node.js, TypeScript, JavaScript, Patterns, and NestJS**
 
 - 📫 How to reach me **iago.calazans@gmail.com**
 
