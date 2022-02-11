@@ -7,7 +7,7 @@
 
 - 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns, Clean Code and NestJS**
 
-- 👨‍💻 All of me is available [here!](https://thenodejs.engineer)
+- 👨‍💻 All of me is [available here](https://thenodejs.engineer)
 
 - 💬 Ask me about **Node.js, TypeScript, JavaScript, Patterns, and NestJS**
 
