@@ -1,13 +1,13 @@
 <h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg" /></h1>
-<h3 align="center">Engineer Senior Node.js and Typescript | Tech Lead</h3>
+<h3 align="center">Senior Node.js Engineer at <a href="https://www.stone.com.br/">Stone</a></h3>
 
 <br>
 
-- 🔭 I’m currently working at [Kognita.ai](https://kognita.ai/) as Tech Lead
+- 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Node.js Engineer
 
 - 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns, Clean Code and NestJS**
 
-- 👨‍💻 All of me is [available here](https://thenodejs.engineer)
+- 👨‍💻 All of me is [ [AVAILABLE HERE](https://thenodejs.engineer) ]
 
 - 💬 Ask me about **Node.js, TypeScript, JavaScript, Patterns, and NestJS**
 
