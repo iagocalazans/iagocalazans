@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg" /></h1>
+<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow" /></h1>
 <h3 align="center">Senior Node.js Engineer at <a href="https://www.stone.com.br/">Stone</a></h3>
 
 <br>
