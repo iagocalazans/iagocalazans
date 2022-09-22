@@ -5,24 +5,23 @@
 
 - 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Node.js Engineer
 
-- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns, Clean Code and NestJS**
+- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns and Clean Code**
 
 - 👨‍💻 All of me is [ [AVAILABLE HERE](https://thenodejs.engineer) ]
 
-- 💬 Ask me about **Node.js, TypeScript, JavaScript, Patterns, and NestJS**
+- 💬 Ask me about **Node.js, TypeScript, JavaScript and Patterns**
 
 - 📫 How to reach me **iago.calazans@gmail.com**
 
-- 📄 Know about my experiences [http://trampos.co/iagocalazans](http://trampos.co/iagocalazans)
+- 📄 Know about my experiences in [trampos.co](https://trampos.co/iagocalazans)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/iagocalazans" target="_blank"><img align="center" src="https://img.shields.io/badge/codepen-seguir?style=social&logo=codepen" alt="iagocalazans" /></a> <br />
 <a href="https://dev.to/iagocalazans" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-seguir?style=social&logo=dev.to" alt="iagocalazans" /></a> <br />
-<a href="https://twitter.com/dpixeljay" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-seguir?style=social&logo=twitter" alt="dpixeljay" /></a> <br />
+<a href="https://twitter.com/iago_calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-seguir?style=social&logo=twitter" alt="dpixeljay" /></a> <br />
 <a href="https://linkedin.com/in/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-seguir?style=social&logo=linkedin" alt="iago-calazans" /></a> <br />
 <a href="https://stackoverflow.com/users/10481975/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-seguir?style=social&logo=stackoverflow" alt="10481975/iago-calazans" /></a> <br />
-<a href="https://instagram.com/dpixeljay" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-seguir?style=social&logo=instagram" alt="dpixeljay" /></a>
+<a href="https://instagram.com/iagocalazans_" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-seguir?style=social&logo=instagram" alt="iagocalazans_" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
