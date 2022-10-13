@@ -1,6 +1,8 @@
 <h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-Javascript-yellow?style=for-the-badge&logo=javascript" /></h1>
 <h3 align="center">Senior Node.js Engineer at <a href="https://www.stone.com.br/">Stone</a></h3>
 
+[![wakatime](https://wakatime.com/badge/user/70483c91-7eb1-4dcd-8e23-1212da72ebc4.svg)](https://wakatime.com/@70483c91-7eb1-4dcd-8e23-1212da72ebc4)
+
 <br>
 
 - 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Node.js Engineer
