@@ -5,17 +5,17 @@
 
 <br>
 
-- 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Node.js Engineer
+- 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Software Engineer
 
-- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Patterns and Clean Code**
+- 📚 I’m always studying more for **C++, Node.js, TypeScript, JavaScript, Patterns and Clean Code**
 
-- 👨‍💻 All of me is [ [AVAILABLE HERE](https://thenodejs.engineer) ]
+- 👨‍💻 All of me is [ [AVAILABLE HERE](https://iagocalazans.dev) ]
 
 - 💬 Ask me about **Node.js, TypeScript, JavaScript and Patterns**
 
 - 📫 How to reach me **iago.calazans@gmail.com**
 
-- 📄 Know about my experiences in [trampos.co](https://trampos.co/iagocalazans)
+- 📄 Know about my experiences in [curriculum](https://trampos.co/iagocalazans)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
