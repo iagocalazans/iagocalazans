@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-Javascript-yellow?style=for-the-badge&logo=javascript" /></h1>
-<h3 align="center">Senior Senior Software Engineer at <a href="https://www.stone.com.br/">Stone</a></h3>
+<h3 align="center">Senior Software Engineer at <a href="https://www.stone.com.br/">Stone</a></h3>
 
 <br>
 
