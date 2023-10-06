@@ -32,6 +32,6 @@
 
 <h3 align="left">Badges:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iagocalazans&show_icons=true&locale=en&hide=html,css" alt="iagocalazans" /> &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=iagocalazans&hide=issues&count_private=true&show_icons=true" alt="iagocalazans" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iagocalazans&theme=github_dark" alt="iagocalazans" /> &nbsp;&nbsp;&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iagocalazans&theme=github_dark" alt="iagocalazans" /></p>
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iagocalazans&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD7C37" alt="iagocalazans" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagocalazans&theme=github_dark" alt="iagocalazans" /></p>
