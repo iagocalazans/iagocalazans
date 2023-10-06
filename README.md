@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at [Stone](https://www.stone.com.br/) as Senior Node.js Engineer
 
-- 📚 I’m always studying more for **C++, Node.js, TypeScript, JavaScript, Patterns and Clean Code**
+- 📚 I’m always studying more for **C++, Node.js, TypeScript, JavaScript, Zig**
 
 - 👨‍💻 All of me is [ [AVAILABLE HERE](https://iagocalazans.dev) ]
 
-- 💬 Ask me about **Node.js, TypeScript, JavaScript and Patterns**
+- 💬 Ask me about **C++, Node.js, JavaScript and Zig**
 
 - 📫 How to reach me **iago.calazans@gmail.com**
 
