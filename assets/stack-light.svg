@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80" viewBox="0 0 700 80">
+  <g font-family="monospace" font-size="12">
+
+    
+    <rect x="0" y="6" width="108" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="14" cy="20" r="4" fill="#3178c6"></circle>
+    <text x="22" y="24" fill="#1f2328">TypeScript</text>
+
+    <rect x="116" y="6" width="86" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="130" cy="20" r="4" fill="#5fa04e"></circle>
+    <text x="138" y="24" fill="#1f2328">Node.js</text>
+
+    <rect x="210" y="6" width="79" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="224" cy="20" r="4" fill="#e0234e"></circle>
+    <text x="232" y="24" fill="#1f2328">NestJS</text>
+
+    <rect x="297" y="6" width="108" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="311" cy="20" r="4" fill="#d4b500"></circle>
+    <text x="319" y="24" fill="#1f2328">JavaScript</text>
+
+    <rect x="413" y="6" width="58" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="427" cy="20" r="4" fill="#f05032"></circle>
+    <text x="435" y="24" fill="#1f2328">Git</text>
+
+    <rect x="479" y="6" width="108" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="493" cy="20" r="4" fill="#336791"></circle>
+    <text x="501" y="24" fill="#1f2328">PostgreSQL</text>
+
+    <rect x="595" y="6" width="94" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="609" cy="20" r="4" fill="#1098c1"></circle>
+    <text x="617" y="24" fill="#1f2328">React.js</text>
+
+    
+    <rect x="0" y="46" width="72" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="14" cy="60" r="4" fill="#e07c00"></circle>
+    <text x="22" y="64" fill="#1f2328">MySQL</text>
+
+    <rect x="80" y="46" width="79" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="94" cy="60" r="4" fill="#2496ed"></circle>
+    <text x="102" y="64" fill="#1f2328">Docker</text>
+
+    <rect x="167" y="46" width="86" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="181" cy="60" r="4" fill="#dd0031"></circle>
+    <text x="189" y="64" fill="#1f2328">Angular</text>
+
+    <rect x="261" y="46" width="65" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="275" cy="60" r="4" fill="#ce422b"></circle>
+    <text x="283" y="64" fill="#1f2328">Rust</text>
+
+    <rect x="334" y="46" width="50" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="348" cy="60" r="4" fill="#00add8"></circle>
+    <text x="356" y="64" fill="#1f2328">Go</text>
+
+    <rect x="392" y="46" width="79" height="28" rx="14" fill="#eaeef2"></rect>
+    <circle cx="406" cy="60" r="4" fill="#6e4a7e"></circle>
+    <text x="414" y="64" fill="#1f2328">Elixir</text>
+
+  </g>
+</svg>

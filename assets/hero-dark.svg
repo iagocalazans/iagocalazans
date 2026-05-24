@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340">
+  <rect width="1080" height="340" fill="none"></rect>
+
+  <line x1="32" y1="36" x2="54" y2="36" stroke="#3a3a36" stroke-width="1"></line>
+  <text x="64" y="40" font-family="monospace" font-size="11" fill="#6e6e68" letter-spacing="1.8">PORTFOLIO</text>
+
+  <text x="32" y="180" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4">Shipping <tspan fill="#5b9dff" font-style="italic">calm,</tspan></text>
+  <text x="32" y="260" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4"><tspan fill="#5b9dff" font-style="italic">opinionated</tspan> tools.</text>
+
+  <g font-family="monospace">
+    <line x1="760" y1="60" x2="1048" y2="60" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="86" font-size="13" fill="#6e6e68" letter-spacing="1.4">ROLE</text>
+    <text x="1048" y="86" text-anchor="end" font-size="13" fill="#c9c6bd">Product/Software Engineer</text>
+    <line x1="760" y1="102" x2="1048" y2="102" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="128" font-size="13" fill="#6e6e68" letter-spacing="1.4">BASED</text>
+    <text x="1048" y="128" text-anchor="end" font-size="13" fill="#c9c6bd">Belo Horizonte, MG, BR</text>
+    <line x1="760" y1="144" x2="1048" y2="144" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="170" font-size="13" fill="#6e6e68" letter-spacing="1.4">FOCUS</text>
+    <text x="1048" y="170" text-anchor="end" font-size="13" fill="#c9c6bd">Node · TypeScript · NestJS · LLMs</text>
+    <line x1="760" y1="186" x2="1048" y2="186" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="212" font-size="13" fill="#6e6e68" letter-spacing="1.4">OPEN TO</text>
+    <text x="1048" y="212" text-anchor="end" font-size="13" fill="#c9c6bd">Not currently looking</text>
+    <line x1="760" y1="228" x2="1048" y2="228" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="254" font-size="13" fill="#6e6e68" letter-spacing="1.4">GITHUB</text>
+    <text x="1048" y="254" text-anchor="end" font-size="13" fill="#5b9dff">@iagocalazans</text>
+    <line x1="760" y1="270" x2="1048" y2="270" stroke="#2a2a26" stroke-width="1"></line>
+
+    <text x="760" y="296" font-size="13" fill="#6e6e68" letter-spacing="1.4">LINKEDIN</text>
+    <text x="1048" y="296" text-anchor="end" font-size="13" fill="#5b9dff">@iago-calazans</text>
+    <line x1="760" y1="312" x2="1048" y2="312" stroke="#2a2a26" stroke-width="1"></line>
+  </g>
+</svg>

@@ -1,32 +1,156 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=1000&color=4A7EC7&center=true&vCenter=true&multiline=true&height=135&lines=Hi!;My+name+is+Iago+Calazans;and+I'm+a;Product%2FSoftware+Engineer" alt="Typing SVG" /></a></p>
+<!--
+  ─────────────────────────────────────────────────────────────────────
+  iagocalazans / README.md
+  Inspired by iagocalazans.dev — calm, editorial, opinionated.
+  Section labels are kept in monospace, headlines render from /assets.
+  ─────────────────────────────────────────────────────────────────────
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Shipping calm, opinionated tools. — Product/Software Engineer · Belo Horizonte, BR · Node, TypeScript, NestJS, LLMs · @iagocalazans · @iago-calazans" src="./assets/hero-dark.svg" width="100%">
+</picture>
+
+&nbsp;
+
+Product/Software engineer based in Belo Horizonte. I write Node, TypeScript and NestJS for a living, and design my own little tools on the side.
+
+&nbsp;
+
+<sub><code>&nbsp;&nbsp;02 &nbsp;·&nbsp; FEATURED RELEASE &nbsp;&nbsp;</code></sub>
+
+### A new tool, in private beta.
+
+> **[overflow.guru](https://overflow.guru)** — _Orçamento guiado com inteligência._
+> Personal finance tools assume you already know how to budget. Overflow walks you through it: answer a handful of questions and it builds a category plan tuned to how you actually spend, then tracks the gap between intent and reality.
+>
+> Currently in **private beta** — used personally and opened to a small group of testers on request. No public launch planned.
+>
+> `· Conversational onboarding`&nbsp;&nbsp;`· Brazilian-real-first, multi-currency next`
+> `· Local-first, no bank scraping`&nbsp;&nbsp;`· PWA, mobile-shaped`
+
+&nbsp;
+
+<sub><code>&nbsp;&nbsp;03 &nbsp;·&nbsp; OPEN SOURCE &nbsp;&nbsp;</code></sub>
+
+### A small archive of libraries.
+
+<pre>
+01   • <a href="https://github.com/iagocalazans/twilio-functions-utils">twilio-functions-utils</a>         ★ 11   ◷ 1    ·   TypeScript
+     This lib was created with the aim of simplifying the use of serverless Twilio.
+
+02   • <a href="https://github.com/iagocalazans/declarative-based-flow">declarative-based-flow</a>         ★  7   ◷ 0    ·   TypeScript
+     A powerful and intuitive package designed to simplify the construction
+     of complex, structured workflows using a declarative and fluent syntax.
+
+03   • <a href="https://github.com/iagocalazans/try2catch">try2catch</a>                      ★  7   ◷ 0    ·   TypeScript
+     A better try/catch-like way to get your errors encapsulated.
+
+04   • <a href="https://github.com/iagocalazans/nosep">nosep</a>                          ★  4   ◷ 0    ·   TypeScript
+     Facilitates the conversion of object properties that have
+     separators to the format used in JS.
+
+05   • <a href="https://github.com/iagocalazans/aws-s3-with-parts-storage">aws-s3-with-parts-storage</a>      ★  2   ◷ 0    ·   TypeScript
+     Multer's storage engine with a call to S3 as the substitution piece
+     for the file system.
+</pre>
+
+&nbsp;
+
+<sub><code>&nbsp;&nbsp;04 &nbsp;·&nbsp; STACK &nbsp;&nbsp;</code></sub>
+
+### Tools I reach for.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="TypeScript · Node.js · NestJS · JavaScript · Git · PostgreSQL · React.js · MySQL · Docker · Angular · Rust · Go · Elixir" src="./assets/stack-dark.svg" width="100%">
+</picture>
+
+<sub><i>Filled dots mean I'd be happy to lead a team using it.</i></sub>
+
+&nbsp;
+
+<sub><code>&nbsp;&nbsp;05 &nbsp;·&nbsp; EXPERIENCE &nbsp;&nbsp;</code></sub>
+
+### Where I've been, lately.
+
+<pre>
+May 2026     Software/Product Engineer        ○  HQ Insights · remote from BR
+Present
+             AI-powered revenue growth intelligence platform unifying market,
+             account, IT-spend, intent and competitor data into GTM strategy
+             and activation workflows. Recently joined. More detail as the
+             work takes shape.
+
+May 2024     Senior Software Engineer         ○  Levarjá · remote from BR
+Mar 2026
+             Recruiting platform for international education — connecting
+             agencies and partner schools. Owned the Wallet service that
+             manages payments under the main platform via the Transfermate
+             API, shipping a reusable integration library around it.
+             Redesigned the notification system into an event-driven
+             architecture (AWS SQS · Lambda · NestJS), and built LLM-powered
+             internal tooling via MCP servers and the Claude API.
+
+Feb 2022     Senior Node.js Engineer          ○  Stone · remote
+Mar 2024
+             Built and scaled the internal contact-center platform in
+             TypeScript/NestJS on top of Twilio Voice and Twilio Flex,
+             automating customer-support queue routing with Redis/MQ and
+             Twilio Functions. Authored twilio-functions-utils, an
+             open-source helper library that became the team's default
+             scaffold for Twilio Functions. Mentored 5+ engineers and
+             lifted core test coverage from 40% to 80%+.
+</pre>
+
+<sub><i>Earlier work archived for brevity — full timeline on <a href="https://iagocalazans.dev">iagocalazans.dev</a>.</i></sub>
+
+&nbsp;
+
+<sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; GITHUB &nbsp;&nbsp;</code></sub>
+
+### A year, by hand.
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=iagocalazans&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ebe9e4&text_color=9a978c&icon_color=5b9dff&hide_title=true">
+  <img
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=iagocalazans&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1a1a17&text_color=4a4a44&icon_color=2563eb&hide_title=true">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocalazans&layout=compact&hide_border=true&bg_color=00000000&title_color=ebe9e4&text_color=9a978c&hide_title=true&langs_count=8">
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocalazans&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a17&text_color=4a4a44&hide_title=true&langs_count=8">
+</picture>
 
 <br>
-
-- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Elixir, Go and Rust**
-
-- 👨‍💻 All of me is [ [AVAILABLE HERE](https://iagocalazans.dev) ]
-
-- 💬 Ask me about **Node.js, JavaScript/TypeScript**
-
-- 📫 How to reach me **iago.calazans@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://iagocalazans.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-seguir?style=social&logo=dev.to" alt="iagocalazans" /></a> <br />
-<a href="https://twitter.com/iago_calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-seguir?style=social&logo=twitter" alt="dpixeljay" /></a> <br />
-<a href="https://linkedin.com/in/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-seguir?style=social&logo=linkedin" alt="iago-calazans" /></a> <br />
-<a href="https://stackoverflow.com/users/10481975/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-seguir?style=social&logo=stackoverflow" alt="10481975/iago-calazans" /></a> <br />
-<a href="https://instagram.com/iagocalazans_" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-seguir?style=social&logo=instagram" alt="iagocalazans_" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-~2008-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow" alt="javascript"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/typescript-%5E3.x-blue?style=for-the-badge&logo=TypeScript&logoColor=blue" alt="typescript" /> </a> <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/php-^5.x-blueviolet?style=for-the-badge&logo=php&logoColor=blueviolet" alt="php"  /> </a></p>
-<p align="left"> <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/node-%5E12.x-green?style=for-the-badge&logo=Node.js&logoColor=green" alt="nodejs"/> </a> <a href="https://nestjs.com/" target="_blank"> <img src="https://img.shields.io/badge/nestjs-%5E7.x-critical?style=for-the-badge&logo=NestJS&logoColor=critical" alt="nestjs" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-~-9cf?style=for-the-badge&logo=Docker&logoColor=9cf" alt="docker" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-~-important?style=for-the-badge&logo=Git&logoColor=important" alt="git" /> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/jest-~-ff69b4?style=for-the-badge&logo=Jest&logoColor=ff69b4" alt="jest" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-~-green?style=for-the-badge&logo=MongoDB&logoColor=green" alt="mongodb" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/~0.11.x-F7A41D?style=for-the-badge&logo=zig&label=Zig" alt="ziglang" /> </a>  </p>
-
 <br>
 
-<h3 align="left">Badges:</h3>
+<sub><code>&nbsp;&nbsp;07 &nbsp;·&nbsp; CONTACT &nbsp;&nbsp;</code></sub>
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iagocalazans&theme=github_dark" alt="iagocalazans" /> &nbsp;&nbsp;&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iagocalazans&theme=github_dark" alt="iagocalazans" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/want-to-build-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/want-to-build-light.svg">
+  <img alt="Want to build something?" src="./assets/want-to-build-dark.svg" width="500">
+</picture>
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagocalazans&theme=github_dark" alt="iagocalazans" /></p>
+&nbsp;
+
+<pre>
+EMAIL              <a href="mailto:iago.calazans@gmail.com">iago.calazans@gmail.com</a>                       copy →
+PHONE              +55 31 99565-7984                             copy →
+GITHUB             <a href="https://github.com/iagocalazans">github.com/iagocalazans</a>                       open →
+LINKEDIN           <a href="https://linkedin.com/in/iago-calazans">linkedin.com/in/iago-calazans</a>                 open →
+STACK OVERFLOW     <a href="https://stackoverflow.com/users/iago-calazans">stackoverflow.com/users/iago-calazans</a>         open →
+OVERFLOW           <a href="https://overflow.guru">overflow.guru</a>                                 open →
+</pre>
+
+<sub>© 2026 · Iago Calazans · Belo Horizonte, MG, BR</sub>
