@@ -109,20 +109,7 @@ Mar 2024
 
 &nbsp;
 
-<sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; GITHUB &nbsp;&nbsp;</code></sub>
-
-### A year, by hand.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
-  <img alt="GitHub stats — 17 public repos, joined 2017, top languages TypeScript and JavaScript, 42 stars, 1041 contributions this year." src="./assets/github-stats-dark.svg" width="100%">
-</picture>
-
-<br>
-<br>
-
-<sub><code>&nbsp;&nbsp;07 &nbsp;·&nbsp; CONTACT &nbsp;&nbsp;</code></sub>
+<sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; CONTACT &nbsp;&nbsp;</code></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/want-to-build-dark.svg">
