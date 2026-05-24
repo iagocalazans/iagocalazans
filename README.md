@@ -1,21 +1,19 @@
-<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-Javascript-yellow?style=for-the-badge&logo=javascript" /></h1>
+<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-Javascript-yellow?style=for-the-badge&logo=typescript /></h1>
 <h3 align="center">Senior Software Engineer</h3>
 
 <br>
 
-- 📚 I’m always studying more for **C++, Node.js, TypeScript, JavaScript, Zig**
+- 📚 I’m always studying more for **Node.js, TypeScript, JavaScript, Elixir, Go and Rust**
 
 - 👨‍💻 All of me is [ [AVAILABLE HERE](https://iagocalazans.dev) ]
 
-- 💬 Ask me about **C++, Node.js, JavaScript and Zig**
+- 💬 Ask me about **Node.js, JavaScript/TypeScript**
 
 - 📫 How to reach me **iago.calazans@gmail.com**
 
-- 📄 Know about my experiences in [curriculum](https://trampos.co/iagocalazans)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/iagocalazans" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-seguir?style=social&logo=dev.to" alt="iagocalazans" /></a> <br />
+<a href="https://iagocalazans.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-seguir?style=social&logo=dev.to" alt="iagocalazans" /></a> <br />
 <a href="https://twitter.com/iago_calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-seguir?style=social&logo=twitter" alt="dpixeljay" /></a> <br />
 <a href="https://linkedin.com/in/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-seguir?style=social&logo=linkedin" alt="iago-calazans" /></a> <br />
 <a href="https://stackoverflow.com/users/10481975/iago-calazans" target="_blank"><img align="center" src="https://img.shields.io/badge/stackoverflow-seguir?style=social&logo=stackoverflow" alt="10481975/iago-calazans" /></a> <br />
