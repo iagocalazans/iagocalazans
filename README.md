@@ -1,5 +1,4 @@
-<h1 align="center">👋 I'm, Iago Calazans  <img src="https://img.shields.io/badge/Made%20with-TypeScript-blue?style=for-the-badge&logo=typescript" /></h1>
-<h3 align="center">Product/Software Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=4A7EC7&center=true&vCenter=true&multiline=true&height=180&lines=Hi!;My+name+is+Iago+Calazans;and+I'm+a;Senior;Product%2FSoftware+Engineer)](https://git.io/typing-svg)
 
 <br>
 
