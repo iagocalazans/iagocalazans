@@ -114,21 +114,9 @@ Mar 2024
 ### A year, by hand.
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=iagocalazans&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=ebe9e4&text_color=9a978c&icon_color=5b9dff&hide_title=true">
-  <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=iagocalazans&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=1a1a17&text_color=4a4a44&icon_color=2563eb&hide_title=true">
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocalazans&layout=compact&hide_border=true&bg_color=00000000&title_color=ebe9e4&text_color=9a978c&hide_title=true&langs_count=8">
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocalazans&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a17&text_color=4a4a44&hide_title=true&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
+  <img alt="GitHub stats — 17 public repos, joined 2017, top languages TypeScript and JavaScript, 42 stars, 1041 contributions this year." src="./assets/github-stats-dark.svg" width="100%">
 </picture>
 
 <br>

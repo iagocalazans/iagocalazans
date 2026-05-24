@@ -1,37 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340">
-  <rect width="1080" height="340" fill="none"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="380" viewBox="0 0 1080 380">
+  <rect width="1080" height="380" fill="none"></rect>
 
-  <line x1="32" y1="36" x2="54" y2="36" stroke="#3a3a36" stroke-width="1"></line>
-  <text x="64" y="40" font-family="monospace" font-size="11" fill="#6e6e68" letter-spacing="1.8">PORTFOLIO</text>
+  <line x1="32" y1="38" x2="60" y2="38" stroke="#3a3a36" stroke-width="1"></line>
+  <text x="70" y="43" font-family="monospace" font-size="14" fill="#8a8a82" letter-spacing="2">PORTFOLIO</text>
 
-  <text x="32" y="180" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4">Shipping <tspan fill="#5b9dff" font-style="italic">calm,</tspan></text>
-  <text x="32" y="260" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4"><tspan fill="#5b9dff" font-style="italic">opinionated</tspan> tools.</text>
+  <text x="32" y="190" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4">Shipping <tspan fill="#5b9dff" font-style="italic">calm,</tspan></text>
+  <text x="32" y="270" font-family="Georgia" font-size="72" fill="#ebe9e4" letter-spacing="-1.4"><tspan fill="#5b9dff" font-style="italic">opinionated</tspan> tools.</text>
 
   <g font-family="monospace">
-    <line x1="760" y1="60" x2="1048" y2="60" stroke="#2a2a26" stroke-width="1"></line>
+    <line x1="700" y1="68" x2="1060" y2="68" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="86" font-size="13" fill="#6e6e68" letter-spacing="1.4">ROLE</text>
-    <text x="1048" y="86" text-anchor="end" font-size="13" fill="#c9c6bd">Product/Software Engineer</text>
-    <line x1="760" y1="102" x2="1048" y2="102" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="100" font-size="15" fill="#8a8a82" letter-spacing="1.6">ROLE</text>
+    <text x="1060" y="100" text-anchor="end" font-size="15" fill="#dad7cf">Product/Software Engineer</text>
+    <line x1="700" y1="120" x2="1060" y2="120" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="128" font-size="13" fill="#6e6e68" letter-spacing="1.4">BASED</text>
-    <text x="1048" y="128" text-anchor="end" font-size="13" fill="#c9c6bd">Belo Horizonte, MG, BR</text>
-    <line x1="760" y1="144" x2="1048" y2="144" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="152" font-size="15" fill="#8a8a82" letter-spacing="1.6">BASED</text>
+    <text x="1060" y="152" text-anchor="end" font-size="15" fill="#dad7cf">Belo Horizonte, MG, BR</text>
+    <line x1="700" y1="172" x2="1060" y2="172" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="170" font-size="13" fill="#6e6e68" letter-spacing="1.4">FOCUS</text>
-    <text x="1048" y="170" text-anchor="end" font-size="13" fill="#c9c6bd">Node · TypeScript · NestJS · LLMs</text>
-    <line x1="760" y1="186" x2="1048" y2="186" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="204" font-size="15" fill="#8a8a82" letter-spacing="1.6">FOCUS</text>
+    <text x="1060" y="204" text-anchor="end" font-size="15" fill="#dad7cf">Node · TypeScript · NestJS · LLMs</text>
+    <line x1="700" y1="224" x2="1060" y2="224" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="212" font-size="13" fill="#6e6e68" letter-spacing="1.4">OPEN TO</text>
-    <text x="1048" y="212" text-anchor="end" font-size="13" fill="#c9c6bd">Not currently looking</text>
-    <line x1="760" y1="228" x2="1048" y2="228" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="256" font-size="15" fill="#8a8a82" letter-spacing="1.6">OPEN TO</text>
+    <text x="1060" y="256" text-anchor="end" font-size="15" fill="#dad7cf">Not currently looking</text>
+    <line x1="700" y1="276" x2="1060" y2="276" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="254" font-size="13" fill="#6e6e68" letter-spacing="1.4">GITHUB</text>
-    <text x="1048" y="254" text-anchor="end" font-size="13" fill="#5b9dff">@iagocalazans</text>
-    <line x1="760" y1="270" x2="1048" y2="270" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="308" font-size="15" fill="#8a8a82" letter-spacing="1.6">GITHUB</text>
+    <text x="1060" y="308" text-anchor="end" font-size="15" fill="#5b9dff">@iagocalazans</text>
+    <line x1="700" y1="328" x2="1060" y2="328" stroke="#2a2a26" stroke-width="1"></line>
 
-    <text x="760" y="296" font-size="13" fill="#6e6e68" letter-spacing="1.4">LINKEDIN</text>
-    <text x="1048" y="296" text-anchor="end" font-size="13" fill="#5b9dff">@iago-calazans</text>
-    <line x1="760" y1="312" x2="1048" y2="312" stroke="#2a2a26" stroke-width="1"></line>
+    <text x="700" y="354" font-size="15" fill="#8a8a82" letter-spacing="1.6">LINKEDIN</text>
+    <text x="1060" y="354" text-anchor="end" font-size="15" fill="#5b9dff">@iago-calazans</text>
+    <line x1="700" y1="372" x2="1060" y2="372" stroke="#2a2a26" stroke-width="1"/>
   </g>
 </svg>
