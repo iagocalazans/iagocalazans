@@ -111,15 +111,15 @@ Mar 2024
 
 <sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; GITHUB &nbsp;&nbsp;</code></sub>
 
-### A year, in hours.
+### A year, in programming languages.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/wakatime-year-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/wakatime-year-light.svg">
-  <img alt="Last year of coding — 1,247h total. TypeScript 58.4%, JavaScript 18.0%, JSON 7.1%, Markdown 5.2%, YAML 3.5%, Bash 3.1%." src="./assets/wakatime-year-dark.svg" width="100%">
-</picture>
+<p align="center">
+  <a href="https://wakatime.com/@iagocalazans">
+    <img alt="Last year of coding activity — tracked via Wakatime." src="https://wakatime.com/share/@iagocalazans/8b5dd1fd-6662-4df8-9593-a3f00ac9752c.svg" width="100%">
+  </a>
+</p>
 
-<sub><i>Tracked via <a href="https://wakatime.com/@iagocalazans">Wakatime</a> — refreshed weekly.</i></sub>
+<p align="center"><sub><i>Tracked via <a href="https://wakatime.com/@iagocalazans">Wakatime</a> — refreshed automatically.</i></sub></p>
 
 <br>
 <br>
