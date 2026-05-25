@@ -84,7 +84,7 @@ Present
              and activation workflows. Recently joined. More detail as the
              work takes shape.
 
-May 2024     Senior Software Engineer         ○  Levarjá · remote from BR
+May 2024     Senior Software Engineer         ○  Edvisor · remote from BR
 Mar 2026
              Recruiting platform for international education — connecting
              agencies and partner schools. Owned the Wallet service that
