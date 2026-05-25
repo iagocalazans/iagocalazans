@@ -109,7 +109,22 @@ Mar 2024
 
 &nbsp;
 
-<sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; CONTACT &nbsp;&nbsp;</code></sub>
+<sub><code>&nbsp;&nbsp;06 &nbsp;·&nbsp; GITHUB &nbsp;&nbsp;</code></sub>
+
+### A year, in hours.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wakatime-year-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wakatime-year-light.svg">
+  <img alt="Last year of coding — 1,247h total. TypeScript 58.4%, JavaScript 18.0%, JSON 7.1%, Markdown 5.2%, YAML 3.5%, Bash 3.1%." src="./assets/wakatime-year-dark.svg" width="100%">
+</picture>
+
+<sub><i>Tracked via <a href="https://wakatime.com/@iagocalazans">Wakatime</a> — refreshed weekly.</i></sub>
+
+<br>
+<br>
+
+<sub><code>&nbsp;&nbsp;07 &nbsp;·&nbsp; CONTACT &nbsp;&nbsp;</code></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/want-to-build-dark.svg">
