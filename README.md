@@ -47,7 +47,7 @@ Product/Software engineer based in Belo Horizonte. I write Node, TypeScript and 
 03   • <a href="https://github.com/iagocalazans/try2catch">try2catch</a>                      ★  7   ◷ 0    ·   TypeScript
      A better try/catch-like way to get your errors encapsulated.
 
-04   • <a href="https://github.com/iagocalazans/nosep">nosep</a>                          ★  4   ◷ 0    ·   TypeScript
+04   • <a href="https://github.com/iagocalazans/nosep">nosep</a>                          ★  6   ◷ 0    ·   TypeScript
      Facilitates the conversion of object properties that have
      separators to the format used in JS.
 
@@ -77,7 +77,7 @@ Product/Software engineer based in Belo Horizonte. I write Node, TypeScript and 
 ### Where I've been, lately.
 
 <pre>
-May 2026     Software/Product Engineer        ○  HQ Insights · remote from BR
+May 2026     Product/Software Engineer        ○  HG Insights · remote from BR
 Present
              AI-powered revenue growth intelligence platform unifying market,
              account, IT-spend, intent and competitor data into GTM strategy
@@ -139,7 +139,7 @@ EMAIL              <a href="mailto:iago.calazans@gmail.com">iago.calazans@gmail.
 PHONE              +55 31 99565-7984                             copy →
 GITHUB             <a href="https://github.com/iagocalazans">github.com/iagocalazans</a>                       open →
 LINKEDIN           <a href="https://linkedin.com/in/iago-calazans">linkedin.com/in/iago-calazans</a>                 open →
-STACK OVERFLOW     <a href="https://stackoverflow.com/users/iago-calazans">stackoverflow.com/users/iago-calazans</a>         open →
+STACK OVERFLOW     <a href="https://stackoverflow.com/users/10481975/iago-calazans">stackoverflow.com/users/iago-calazans</a>         open →
 OVERFLOW           <a href="https://overflow.guru">overflow.guru</a>                                 open →
 </pre>
 
