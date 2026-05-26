@@ -37,23 +37,15 @@ Product/Software engineer based in Belo Horizonte. I write Node, TypeScript and 
 ### A small archive of libraries.
 
 <pre>
-01   • <a href="https://github.com/iagocalazans/twilio-functions-utils">twilio-functions-utils</a>         ★ 11   ◷ 1    ·   TypeScript
-     This lib was created with the aim of simplifying the use of serverless Twilio.
-
-02   • <a href="https://github.com/iagocalazans/declarative-based-flow">declarative-based-flow</a>         ★  7   ◷ 0    ·   TypeScript
+01   • <a href="https://github.com/iagocalazans/declarative-based-flow">declarative-based-flow</a>         ★ 12   ◷ 0    ·   TypeScript
      A powerful and intuitive package designed to simplify the construction
      of complex, structured workflows using a declarative and fluent syntax.
 
+02   • <a href="https://github.com/iagocalazans/twilio-functions-utils">twilio-functions-utils</a>         ★ 11   ◷ 1    ·   TypeScript
+     This lib was created with the aim of simplifying the use of serverless Twilio.
+
 03   • <a href="https://github.com/iagocalazans/try2catch">try2catch</a>                      ★  7   ◷ 0    ·   TypeScript
      A better try/catch-like way to get your errors encapsulated.
-
-04   • <a href="https://github.com/iagocalazans/nosep">nosep</a>                          ★  6   ◷ 0    ·   TypeScript
-     Facilitates the conversion of object properties that have
-     separators to the format used in JS.
-
-05   • <a href="https://github.com/iagocalazans/aws-s3-with-parts-storage">aws-s3-with-parts-storage</a>      ★  2   ◷ 0    ·   TypeScript
-     Multer's storage engine with a call to S3 as the substitution piece
-     for the file system.
 </pre>
 
 &nbsp;
@@ -65,7 +57,7 @@ Product/Software engineer based in Belo Horizonte. I write Node, TypeScript and 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img alt="TypeScript · Node.js · NestJS · JavaScript · Git · PostgreSQL · React.js · MySQL · Docker · Angular · Rust · Go · Elixir" src="./assets/stack-dark.svg" width="100%">
+  <img alt="TypeScript · Node.js · NestJS · JavaScript · Git · MySQL · PostgreSQL · React.js · Angular · C/C++ · Docker · Elixir · Go · Rust" src="./assets/stack-dark.svg" width="100%">
 </picture>
 
 <sub><i>Filled dots mean I'd be happy to lead a team using it.</i></sub>

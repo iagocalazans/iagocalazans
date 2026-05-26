@@ -1,59 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80" viewBox="0 0 700 80">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="120" viewBox="0 0 1040 120">
   <g font-family="monospace" font-size="12">
 
-    
-    <rect x="0" y="6" width="108" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="14" cy="20" r="4" fill="#3178c6"></circle>
+
+    <rect x="0" y="6" width="108" height="28" rx="14" fill="#1c2128" stroke="#4a9dff" stroke-opacity="0.55"></rect>
+    <circle cx="14" cy="20" r="4" fill="#4a9dff"></circle>
     <text x="22" y="24" fill="#c9d1d9">TypeScript</text>
 
-    <rect x="116" y="6" width="86" height="28" rx="14" fill="#21262d"></rect>
+    <rect x="116" y="6" width="86" height="28" rx="14" fill="#1c2128" stroke="#5fa04e" stroke-opacity="0.55"></rect>
     <circle cx="130" cy="20" r="4" fill="#5fa04e"></circle>
     <text x="138" y="24" fill="#c9d1d9">Node.js</text>
 
-    <rect x="210" y="6" width="79" height="28" rx="14" fill="#21262d"></rect>
+    <rect x="210" y="6" width="79" height="28" rx="14" fill="#1c2128" stroke="#e0234e" stroke-opacity="0.55"></rect>
     <circle cx="224" cy="20" r="4" fill="#e0234e"></circle>
     <text x="232" y="24" fill="#c9d1d9">NestJS</text>
 
-    <rect x="297" y="6" width="108" height="28" rx="14" fill="#21262d"></rect>
+    <rect x="297" y="6" width="108" height="28" rx="14" fill="#1c2128" stroke="#f7df1e" stroke-opacity="0.55"></rect>
     <circle cx="311" cy="20" r="4" fill="#f7df1e"></circle>
     <text x="319" y="24" fill="#c9d1d9">JavaScript</text>
 
-    <rect x="413" y="6" width="58" height="28" rx="14" fill="#21262d"></rect>
+    <rect x="413" y="6" width="58" height="28" rx="14" fill="#1c2128" stroke="#f05032" stroke-opacity="0.55"></rect>
     <circle cx="427" cy="20" r="4" fill="#f05032"></circle>
     <text x="435" y="24" fill="#c9d1d9">Git</text>
 
-    <rect x="479" y="6" width="108" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="493" cy="20" r="4" fill="#4f8fcb"></circle>
-    <text x="501" y="24" fill="#c9d1d9">PostgreSQL</text>
+    <rect x="479" y="6" width="72" height="28" rx="14" fill="#1c2128" stroke="#5a8bbd" stroke-opacity="0.55"></rect>
+    <circle cx="493" cy="20" r="4" fill="#5a8bbd"></circle>
+    <text x="501" y="24" fill="#c9d1d9">MySQL</text>
 
-    <rect x="595" y="6" width="94" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="609" cy="20" r="4" fill="#61dafb"></circle>
-    <text x="617" y="24" fill="#c9d1d9">React.js</text>
+    <rect x="559" y="6" width="108" height="28" rx="14" fill="#1c2128" stroke="#4f8fcb" stroke-opacity="0.55"></rect>
+    <circle cx="573" cy="20" r="4" fill="#4f8fcb"></circle>
+    <text x="581" y="24" fill="#c9d1d9">PostgreSQL</text>
 
-    
-    <rect x="0" y="46" width="72" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="14" cy="60" r="4" fill="#f29111"></circle>
-    <text x="22" y="64" fill="#c9d1d9">MySQL</text>
+    <rect x="675" y="6" width="94" height="28" rx="14" fill="#1c2128" stroke="#61dafb" stroke-opacity="0.55"></rect>
+    <circle cx="689" cy="20" r="4" fill="#61dafb"></circle>
+    <text x="697" y="24" fill="#c9d1d9">React.js</text>
 
-    <rect x="80" y="46" width="79" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="94" cy="60" r="4" fill="#2496ed"></circle>
-    <text x="102" y="64" fill="#c9d1d9">Docker</text>
 
-    <rect x="167" y="46" width="86" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="181" cy="60" r="4" fill="#dd0031"></circle>
-    <text x="189" y="64" fill="#c9d1d9">Angular</text>
+    <rect x="777" y="6" width="86" height="28" rx="14" fill="#1c2128" stroke="#dd0031" stroke-opacity="0.4"></rect>
+    <circle cx="791" cy="20" r="3.5" fill="none" stroke="#dd0031" stroke-width="1.5"></circle>
+    <text x="799" y="24" fill="#c9d1d9">Angular</text>
 
-    <rect x="261" y="46" width="65" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="275" cy="60" r="4" fill="#ce422b"></circle>
-    <text x="283" y="64" fill="#c9d1d9">Rust</text>
+    <rect x="871" y="6" width="72" height="28" rx="14" fill="#1c2128" stroke="#6a9fd8" stroke-opacity="0.4"></rect>
+    <circle cx="885" cy="20" r="3.5" fill="none" stroke="#6a9fd8" stroke-width="1.5"></circle>
+    <text x="893" y="24" fill="#c9d1d9">C/C++</text>
 
-    <rect x="334" y="46" width="50" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="348" cy="60" r="4" fill="#00add8"></circle>
-    <text x="356" y="64" fill="#c9d1d9">Go</text>
+    <rect x="951" y="6" width="79" height="28" rx="14" fill="#1c2128" stroke="#2496ed" stroke-opacity="0.4"></rect>
+    <circle cx="965" cy="20" r="3.5" fill="none" stroke="#2496ed" stroke-width="1.5"></circle>
+    <text x="973" y="24" fill="#c9d1d9">Docker</text>
 
-    <rect x="392" y="46" width="79" height="28" rx="14" fill="#21262d"></rect>
-    <circle cx="406" cy="60" r="4" fill="#a06fba"></circle>
-    <text x="414" y="64" fill="#c9d1d9">Elixir</text>
+
+    <rect x="0" y="46" width="79" height="28" rx="14" fill="#1c2128" stroke="#30363d"></rect>
+    <circle cx="14" cy="60" r="3.5" fill="none" stroke="#545d68" stroke-width="1.5"></circle>
+    <text x="22" y="64" fill="#6e7681">Elixir</text>
+
+    <rect x="87" y="46" width="50" height="28" rx="14" fill="#1c2128" stroke="#30363d"></rect>
+    <circle cx="101" cy="60" r="3.5" fill="none" stroke="#545d68" stroke-width="1.5"></circle>
+    <text x="109" y="64" fill="#6e7681">Go</text>
+
+    <rect x="145" y="46" width="65" height="28" rx="14" fill="#1c2128" stroke="#30363d"></rect>
+    <circle cx="159" cy="60" r="3.5" fill="none" stroke="#545d68" stroke-width="1.5"></circle>
+    <text x="167" y="64" fill="#6e7681">Rust</text>
+
+
+    <rect x="747" y="86" width="79" height="28" rx="14" fill="#1c2128" stroke="#8b949e" stroke-opacity="0.6"></rect>
+    <circle cx="761" cy="100" r="4" fill="#c9d1d9"></circle>
+    <text x="769" y="104" fill="#c9d1d9">Expert</text>
+
+    <rect x="834" y="86" width="94" height="28" rx="14" fill="#1c2128" stroke="#30363d"></rect>
+    <circle cx="848" cy="100" r="3.5" fill="none" stroke="#8b949e" stroke-width="1.5"></circle>
+    <text x="856" y="104" fill="#8b949e">Advanced</text>
+
+    <rect x="936" y="86" width="94" height="28" rx="14" fill="#1c2128" stroke="#30363d"></rect>
+    <circle cx="950" cy="100" r="3.5" fill="none" stroke="#6e7681" stroke-width="1.5"></circle>
+    <text x="958" y="104" fill="#6e7681">Learning</text>
 
   </g>
 </svg>
